@@ -1,3 +1,9 @@
 New feature ...
 New ffff 3
 New feat11111ure 2 ...
+
+
+def func(self, arg):
+  print("Test")
+  a = 1
+  print(a)
